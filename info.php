@@ -1,2 +1,2 @@
 <?php
-echo 'i am ask'.456;
+dump(123);
