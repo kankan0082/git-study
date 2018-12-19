@@ -1,2 +1,2 @@
 <?php
-dump(123);
+dump('master');
